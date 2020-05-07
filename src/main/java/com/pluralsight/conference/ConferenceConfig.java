@@ -1,4 +1,4 @@
-package com.pluralsight.conference.model;
+package com.pluralsight.conference;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Configurable;
